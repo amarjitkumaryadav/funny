@@ -1,0 +1,21 @@
+.a
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+body{
+    background: url("images.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+  }
+  body {
+    color: white;
+    text-align: center;
+  }
+  
+  h1 {
+    color: white;
+  }
+  
